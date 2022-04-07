@@ -1,4 +1,4 @@
-Favorite color: Black
+Favorite color: Black or White
 Favorite food: Not a food but Coffee
 Favorite musician/band: Lana Del Rey
 Favorite movie: The Void Fill
